@@ -21,5 +21,3 @@ def window():
 
 window() # window fonksiyonunu çağırma (gerekli)
 ```
-
-sdds
