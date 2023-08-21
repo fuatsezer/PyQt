@@ -1,6 +1,8 @@
 # İlk Uygulamamızı Oluşturalım
 
-![alt text](111.png "Logo Title Text 1")
+![111](https://github.com/fuatsezer/PyQt5/assets/63423939/1b7e5124-a1b5-4e0a-9ea0-485d086dd3ff)
+
+
 
 ```python
 import sys
@@ -21,5 +23,3 @@ def window():
 
 window() # window fonksiyonunu çağırma (gerekli)
 ```
-
-sdds
